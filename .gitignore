@@ -1,0 +1,5 @@
+# ignore compiled files to save space
+**/__pycache__
+*.pyc
+*.sublime-project
+*.sublime-workspace
